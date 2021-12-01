@@ -14,5 +14,7 @@ This is a *learning exercise* where user input is modified when the user presses
 This page does the following:
 
 - Converts miles to km
-- Converts (something else)
+- Adds two numbers
+
+---
 
